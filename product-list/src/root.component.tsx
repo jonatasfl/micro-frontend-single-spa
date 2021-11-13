@@ -1,3 +1,11 @@
+import { ChakraProvider, Container, Grid, GridItem } from "@chakra-ui/react"
+
+import ProductList from "./components/ProductList"
+
 export default function Root(props) {
-  return <section>{props.name} is mounted!</section>;
+  return (
+    <ChakraProvider>
+      <ProductList />
+    </ChakraProvider>
+  );
 }

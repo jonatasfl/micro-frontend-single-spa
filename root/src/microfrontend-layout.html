@@ -28,9 +28,11 @@
     <nav>
       <application name="@mf/navbar"></application>
     </nav>
-    <route default>
-      <application name="@single-spa/welcome"></application>
-    </route>
+    <main id="content">
+      <route default>
+        <application name="@mf/product-list"></application>
+      </route>
+    </main>
     <footer>
       <application name="@mf/footer"></application>
     </footer>
