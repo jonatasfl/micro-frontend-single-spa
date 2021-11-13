@@ -1,3 +1,10 @@
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+</style>
 <single-spa-router>
   <!--
 
@@ -18,6 +25,9 @@
   -->
 
   <main>
+    <nav>
+      <application name="@mf/navbar"></application>
+    </nav>
     <route default>
       <application name="@single-spa/welcome"></application>
     </route>

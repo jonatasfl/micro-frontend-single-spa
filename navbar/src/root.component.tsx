@@ -1,3 +1,11 @@
-export default function Root(props) {
-  return <section>{props.name} is mounted!</section>;
+import { ChakraProvider } from "@chakra-ui/react"
+
+import Navbar from "./components/Navbar"
+
+export default function Root() {
+  return (
+    <ChakraProvider>
+      <Navbar />
+    </ChakraProvider>
+  )
 }
