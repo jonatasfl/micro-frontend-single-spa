@@ -1,40 +1,13 @@
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-</style>
 <single-spa-router>
-  <!--
-
-    This is the single-spa Layout Definition for your microfrontends.
-    See https://single-spa.js.org/docs/layout-definition/ for more information.
-
-  -->
-
-  <!-- Example layouts you might find helpful:
-
   <nav>
-    <application name="@org/navbar"></application>
+    <application name="@mf/navbar"></application>
   </nav>
-  <route path="settings">
-    <application name="@org/settings"></application>
-  </route>
-
-  -->
-
-  <main>
-    <nav>
-      <application name="@mf/navbar"></application>
-    </nav>
-    <main id="content">
-      <route default>
-        <application name="@mf/product-list"></application>
-      </route>
-    </main>
-    <footer>
-      <application name="@mf/footer"></application>
-    </footer>
+  <main id="content">
+    <route default>
+      <application name="@mf/product-list"></application>
+    </route>
   </main>
+  <footer>
+    <application name="@mf/footer"></application>
+  </footer>
 </single-spa-router>

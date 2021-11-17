@@ -12,7 +12,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-aeternanoctis-aeternumgamestudios-g1c-00-1920x1080-f2b341984be4.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-aeternanoctis-aeternumgamestudios-g1c-01-1920x1080-c52dbde9550e.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AeternaNoctis_AeternumGameStudios_S2_1200x1600-ad7498d6f9559a245a38ccacf4d20f09?h=854&resize=1&w=640"
     },
     {
       id: 1636839209,
@@ -28,7 +28,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-gamedec-ansharstudios-g1c-02-1920x1080-911c6c9c27ee.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-gamedec-ansharstudios-g1c-03-1920x1080-45785d8486d4.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/b8abdf9f9bc64ed6b4128a71fd47607f/offer/EGS_Gamedec_AnsharStudios_S2-1200x1600-763684808efe485a0b04677628847926.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839325,
@@ -43,7 +43,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-franchisehockeymanager8-outoftheparkdevelopments-g1a-00-1920x1080-891a70692898.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-franchisehockeymanager8-outoftheparkdevelopments-g1a-02-1920x1080-de3ce1bc627b.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/offer/c0c1086e89f84494ba1c1da9c9500280/EGS_FranchiseHockeyManager8_OutoftheParkDevelopments_S2_1200x1600-731b93a3f55a4fc877db4a89e3a8e6f0?h=854&resize=1&w=640"
     },
     {
       id: 1636839255,
@@ -59,7 +59,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-thelastfriend-thestonebotstudioludusgames-g1a-02-1920x1080-5571c8c4d708.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-thelastfriend-thestonebotstudioludusgames-g1a-03-1920x1080-45f96355c0b4.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLastFriend_TheStonebotStudioLudusGames_S4_1200x1600-084a044ed0080c2ec8c0dccdf89e41fa?h=854&resize=1&w=640"
     },
     {
       id: 1636839184,
@@ -75,7 +75,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-prey-arkanestudios-g1a-02-1920x1080-cda776680803.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-prey-arkanestudios-g1a-03-1920x1080-725c9a2023a4.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Prey_ArkaneStudios_S2_1200x1600-98e869dbf74a7db4857c4242c044272d?h=854&resize=1&w=640"
     },
     {
       id: 1636839164,
@@ -91,7 +91,7 @@ const games = [
         "https://media-cdn.epicgames.com/bd366267f57e4af7823b35ff484eb2ea/bd366267f57e4af7823b35ff484eb2ea-00001-thumb.png?h=720&resize=1&w=1280",
         "https://media-cdn.epicgames.com/29d53c68390442dca26728544fa3899d/29d53c68390442dca26728544fa3899d-00001-thumb.png?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69?h=854&resize=1&w=640"
     },
     {
       id: 1636839156,
@@ -107,7 +107,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1c-01-1920x1080-260d5fe223b9.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1c-02-1920x1080-3b6f3c541266.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/b7b42e2078524ab386a8b2a9856ef557/offer/EGS_Greeneye_Sloclap_S2-1200x1600-1d977762841536e3b8fbff0b3ee4eb65.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839278,
@@ -123,7 +123,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-back4bloodultimateedition-turtlerockstudios-editions-g1c-02-1920x1080-c8b67ca77dde.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-back4blood-turtlerockstudios-g1c-00-1920x1080-501622c73806.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S4-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839221,
@@ -139,7 +139,7 @@ const games = [
         "https://media-cdn.epicgames.com/4ae6587d3c224f05a08ff9b86c1f6526/4ae6587d3c224f05a08ff9b86c1f6526-00001-thumb.png?h=720&resize=1&w=1280",
         "https://media-cdn.epicgames.com/ad1c12f14bea42708b170505267c95da/ad1c12f14bea42708b170505267c95da-00001-thumb.png?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chorus_DeepSilverFishlabs_S2_1200x1600-b9d941720548e6e7a0842531d1933ec1?h=854&resize=1&w=640"
     },
     {
       id: 1636839312,
@@ -154,7 +154,7 @@ const games = [
         "https://cdn2.unrealengine.com/amd-reveal-trailer-thumbnail-1920x1080-ddd35f6e1aa4.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-aeonmustdie-limestonegames-g1a-00-1920x1080-1cc50dfabdd1.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AeonMustDie_LimestoneGames_S2_1200x1600-46b2ef81b5fe8932c95dc6cd2391a3b1?h=854&resize=1&w=640"
     },
     {
       id: 1636839250,
@@ -170,7 +170,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-astriaascending-artisanstudios-g1a-01-1920x1080-2874229f8f59.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-astriaascending-artisanstudios-g1a-02-1920x1080-5c7d47b6b8c7.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S2-1200x1600-f34e4e486a3bab08e1f1b371b03b09d8.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839174,
@@ -186,7 +186,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-niohthecompleteedition-koeitecmogamescoltd-g1a-01-1920x1080-364a70904ecc.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-niohthecompleteedition-koeitecmogamescoltd-g1a-02-1920x1080-63d26be5c43a.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_S2_1200x1600-4723c89d30b680dafa5cf9f279a6cfb7?h=854&resize=1&w=640"
     },
     {
       id: 1636839154,
@@ -202,7 +202,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-saintsrow-deepsilvervolition-g1a-02-1920x1080-4636b4228a4c.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-saintsrow-deepsilvervolition-g1a-03-1920x1080-4efee536bd50.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24?h=854&resize=1&w=640"
     },
     {
       id: 1636839267,
@@ -218,7 +218,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-strangerofparadisefinalfantasyorigin-koeitecmogamescoltd-g1a-02-1920x1080-abfcc90df33d.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-strangerofparadisefinalfantasyorigin-koeitecmogamescoltd-g1a-03-1920x1080-94b07ac63bee.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STRANGEROFPARADISEFINALFANTASYORIGIN_KOEITECMOGAMESCOLTD_S2_1200x1600-5c21f5cf42dd7c4db1ce06bad4da3260?h=854&resize=1&w=6400"
     },
     {
       id: 1636839317,
@@ -233,7 +233,7 @@ const games = [
         "https://media-cdn.epicgames.com/1b19744313cd487b909f648ace7d8684/1b19744313cd487b909f648ace7d8684-00001-thumb.png?h=720&resize=1&w=1280",
         "https://media-cdn.epicgames.com/3ee87adba66d4865ae8e070b8f7d908c/3ee87adba66d4865ae8e070b8f7d908c-00001-thumb.png?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208?h=854&resize=1&w=640"
     },
     {
       id: 1636839332,
@@ -264,7 +264,7 @@ const games = [
         "https://cdn2.unrealengine.com/24070957-a199-4101-aad1-bfc50a7ff204-1920x1080-56aec4ec722c.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-warmongrels-destructivecreations-g1a-00-1920x1080-c9c0929d366a.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarMongrels_DestructiveCreations_S2_1200x1600-ffb2a21fcca3df119bf52e91b885ca86?h=854&resize=1&w=640"
     },
     {
       id: 1636839303,
@@ -280,39 +280,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-disciplesliberation-frimastudio-g1a-01-1920x1080-acbcd400cbd3.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-disciplesliberation-frimastudio-g1a-02-1920x1080-0176f9b67f6b.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839282,
-      title: "The Riftbreaker",
-      price: "R$ 59,99",
-      developer: "EXOR Studios",
-      editor: "EXOR Studios",
-      releaseDate: "14 de out. de 2021",
-      summary: "Jogo de construção de base e sobrevivência com elementos de RPG de ação. Você é uma cientista/comando de elite com uma Armadura Mecânica avançada capaz de viajar por fendas interdimensionais. Saia descendo a porrada em um monte de inimigos. Construa sua base, colete amostras e pesquise novas invenções.",
-      description: "<h2 class=\"css-1de1ys7\">The Riftbreaker</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Riftbreaker Action\" src=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-00-1920x1080-03fd5ddb32c1.jpg\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-00-1920x1080-03fd5ddb32c1.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">SOBRE THE RIFTBREAKER</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Você interpreta o papel da capitã Ashley S. Nowak – você é a Riftbreaker, uma cientista/comando de elite com uma poderosa Armadura Mecânica. Entre em um portal só de ida para Galatea 37, um planeta distante nos limites da Via Láctea, a fim de construir uma base que permitirá uma viagem de volta à Terra para avançar a colonização. A Armadura mecânica de Ashley, que ela chama de \"Sr. Riggs\", pode suportar as condições ambientais mais perigosas e tem uma gama completa de equipamentos para construção de bases, extração de recursos, coleta de espécimes e, é claro, combate. </div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Riftbreaker base building\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-01-1920x1080-646d504ca608.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">CONSTRUÇÃO DE BASES</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Sua tarefa é construir uma fenda de mão dupla de volta à Terra. Essa é uma invenção complexa, que requer quantidades enormes de energia. Coletores solares simples e algumas toneladas de aço não serão suficientes. Você precisará construir uma rede complexa de minas, refinarias, usinas de energia e instalações de pesquisa para concluir essa missão.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Exploration\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-02-1920x1080-12d02c8f8b29.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">EXPLORAÇÃO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Galatea 37 é um planeta desconhecido, no cinturão Sycorax da galáxia Via Láctea. Pesquisas a longa distância detectaram que o planeta é habitável e perfeito para colonização. O planeta está repleto de substâncias e minerais raros, que podem ser encontrados em vários locais em todo o globo. Biomas variados podem surpreender você com fauna e flora desconhecidos, além de condições climáticas inóspitas. Construa postos avançados locais nas áreas ricas em recursos para transportá-los usando a tecnologia das fendas.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Defense\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-03-1920x1080-702053c8c967.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">DEFESA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Sua presença nesse planeta não passará despercebida. Conforme você constrói a sua indústria e perturba a ordem natural, o mundo começará a ver você como uma ameaça. Prepare as suas defesas. Construa muros, barreiras e torres de defesa, pois os ataques ficarão mais poderosos a cada dia. Você enfrentará milhares de criaturas hostis que vão tentar eliminar a sua presença.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Inventory\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g2-04-1920x1080-5a7721f0a1e9.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">FURE, CORTE, ATIRE, COLETE AMOSTRAS, FAÇA PESQUISAS, CRIE ITENS E MUITO MAIS!</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">O Sr. Riggs pode ser equipado com armas poderosas e habilidades que lhe permitirão enfrentar as maiores feras. Você precisa se preparar para enfrentar muitas criaturas alienígenas hostis enquanto faz o reconhecimento do planeta.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">As feras derrotadas derrubarão espécimes valiosos para pesquisa e recursos raros. Use tudo o que puder encontrar para pesquisar e criar novas tecnologias, edificações, armas e equipamentos. Você também pode fazer o reconhecimento do terreno usando seus sensores e escavar tesouros enterrados no subsolo.</div>",
-      images: [
-        "https://media-cdn.epicgames.com/4bb28bb881c04245ac632ba2b5c0c432/4bb28bb881c04245ac632ba2b5c0c432-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://media-cdn.epicgames.com/709b482b12554f789dd0449265e04f86/709b482b12554f789dd0449265e04f86-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-theriftbreaker-exorstudios-g1a-03-1920x1080-f4d81e3e4149.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839168,
-      title: "Pathfinder: Wrath of the Righteous",
-      price: "R$ 149,99",
-      developer: "Owlcat Games",
-      editor: "META Publishing",
-      releaseDate: "",
-      summary: "Embarque em uma jornada para um reino tomado por demônios em um novo RPG épico dos mesmos criadores de Pathfinder: Kingmaker. Explore a natureza do bem e do mal, descubra o verdadeiro preço do poder e ascenda como um Herói Mítico capaz de realizar façanhas que vão além de qualquer expectativa mortal.",
-      description: "<h2 class=\"css-1de1ys7\">Descubra a história</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Seu caminho o levará ao Worldwound (Ferida do mundo), onde a abertura de uma fenda para o Abismo desencadeou o terror que tudo consome por toda a terra. Por mais de um século, as nações vizinhas lutaram destemidamente, tentando rechaçar os inimigos — mas sem sucesso. </div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Dismemberment\" src=\"https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g2-00-1920x1080-8fab34e84567.jpg\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g2-00-1920x1080-8fab34e84567.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Agora, você tem a chance de pôr fim a este conflito, mas o caminho para a salvação está longe de ser bem definido. Você se tornará um anjo reluzente, apoiado por nobres paladinos? Ou um necromante poderoso com hordas de mortos-vivos imortais a seu serviço? Ou alguma coisa totalmente diferente? Lidere seu exército e desafie poderosos comandantes demoníacos. Sua cruzada desencadeará uma série de eventos que mudarão você e o próprio mundo para sempre.</div><h2 class=\"css-1de1ys7\">JOGUE COM O SEU HERÓI, DA SUA MANEIRA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Crie qualquer personagem imaginável com a flexibilidade, riqueza e profundidade do conjunto de regras de Pathfinder First Edition. Escolha entre 25 classes, 12 raças de personagens e mais de mil feitiços, talentos e habilidades para se adequarem ao seu próprio estilo de jogo.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Statue\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g2-01-1920x1080-00bd5b0789c9.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">PARA CADA ESCOLHA, UMA CONSEQUÊNCIA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Suas decisões têm mais peso do que nunca. Seu objetivo é claro, mas você deve forjar seu próprio caminho até ele. Quem morrerá e quem viverá? Quem ficará e quem partirá? Faça suas escolhas e veja o mundo ao seu redor mudar. </div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Rumble\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g2-02-1920x1080-d458dd8a7964.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">UMA NOVA FORMA DE LUTAR</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Desfrute de dois modos de combate conforme você elimina seus inimigos — em tempo real com pausa ou baseado em turnos. Você pode alternar entre eles a qualquer momento para poder jogar na velocidade que lhe agradar. O exclusivo conjunto de regras de Pathfinder também lhe permite executar manobras de combate avançadas, como combate montado. Faça bom uso delas!</div><h2 class=\"css-1de1ys7\">MONTE O SEU GRUPO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Um elenco de mais de 10 companheiros únicos está pronto para se juntar à sua causa. Ganhe o respeito e a confiança deles, e eles sempre estarão ao seu lado, não importa quais perigos os aguardem. E se vocês se desentenderem, bem... é melhor cada um seguir seu rumo. </div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Screen\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g2-03-1920x1080-199c423fb6c4.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><h2 class=\"css-1de1ys7\">LIDERE A CRUZADA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Você precisará de muito mais do que um grupo de aventureiros para purificar a terra desta chaga demoníaca. Assuma o comando dos cruzados e lidere-os até a vitória — tanto como estrategista, controlando a batalha do alto, quanto como comandante de campo, em um novo modo de combate tático.</div><h2 class=\"css-1de1ys7\">ESCOLHA SEU CAMINHO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Explore nove Caminhos Míticos únicos: obtenha habilidades extraordinárias e molde tudo o que vier a seguir. Suas decisões podem transformá-lo em um Anjo celestial, um Demônio furioso, um Lich poderoso, um Malandro astuto, um Éon sobrenatural, um Azata rebelde, um Dragão de Ouro sábio, um insaciável Enxame que Anda — ou você pode continuar sendo um mortal e trilhar o árduo caminho para se tornar uma lenda viva.</div>",
-      images: [
-        "https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g1a-00-1920x1080-1eb17e076a06.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g1a-01-1920x1080-9fbaf2faf893.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-pathfinderwrathoftherighteous-owlcatgames-g1a-02-1920x1080-4b17c6dd2a54.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/offer/EGS_DisciplesLiberation_FrimaStudio_S6-1200x1600-89473ab64a7d3d531e88c921340ed608.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839159,
@@ -328,7 +296,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-blastermasterzero3-inticreatescoltd-g1a-03-1920x1080-3a5e47571194.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-blastermasterzero3-inticreatescoltd-g1a-04-1920x1080-b1d57a96ed8b.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlasterMasterZero3_INTICREATESCOLTD_S2_1200x1600-998161234e4055ee74ac8dc458886b38?h=854&resize=1&w=640"
     },
     {
       id: 1636839230,
@@ -344,7 +312,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-warhammerageofsigmarstormground-gasketgames-g1c-02-1920x1080-dde276a20da9.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-warhammerageofsigmarstormground-gasketgames-g1a-03-1920x1080-d506212d85a9.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarhammerAgeofSigmarStormGround_GasketGames_S6_1200x1600-bb073af753eaa65182a95501e36be822?h=854&resize=1&w=640"
     },
     {
       id: 1636839215,
@@ -360,7 +328,7 @@ const games = [
         "https://media-cdn.epicgames.com/a5804da555764a058717ae2a8d443f6f/a5804da555764a058717ae2a8d443f6f-00001-thumb.png?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-kenabridgeofspirits-emberlab-g1a-00-1920x1080-182970917.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg?h=854&resize=1&w=640"
     },
     {
       id: 1636839244,
@@ -376,7 +344,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-neotheworldendswithyou-handinc-g1a-02-1920x1080-aa7aac7cd9da.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-neotheworldendswithyou-handinc-g1a-03-1920x1080-3d9fe18752d2.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NEOTheWorldEndswithYou_handInc_S2_1200x1600-bd41753975486e08ca8f0518d893280f?h=854&resize=1&w=640"
     },
     {
       id: 1636839151,
@@ -392,7 +360,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-kingsbountyii-1centertainment-g1a-02-1920x1080-96ca760da35f.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-kingsbountyii-1centertainment-g1a-03-1920x1080-0e870f341cb9.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyII_1CEntertainment_S2_1200x1600-93fd192261be8f0f0c7834f9de94eac9?h=854&resize=1&w=640"
     },
     {
       id: 1636839192,
@@ -408,23 +376,7 @@ const games = [
         "https://cdn2.unrealengine.com/ttwl-gameplay-reveal-screenshots-banshee-1080-1mb-1920x1080-bf235e1791e1.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/ttwl-gameplay-reveal-screenshots-mushroom-forest-1080-1mb-1920x1080-9f8ebad39534.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839233,
-      title: "Nioh 2 – The Complete Edition",
-      price: "R$ 249,50",
-      developer: "KOEI TECMO GAMES CO., LTD.",
-      editor: "KOEI TECMO GAMES CO., LTD.",
-      releaseDate: "9 de set. de 2021",
-      summary: "Enfrente hordas de yokai neste RPG de ação de dificuldade extrema. Crie a sua personagem e aventure-se pelo Japão. Utilize a nova habilidade Yokai Shift para derrotar até mesmo ferozes yokai e prepare-se para encarar os Dark Realms criados por seus inimigos.",
-      description: "<h2 class=\"css-1de1ys7\">Bônus por tempo limitado</h2><h2 class=\"css-1de1ys7\">UNLEASH YOUR DARKNESS</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Desfrute da emoção de massacrar em batalha as temíveis hordas de Yokai neste violento RPG de ação de dificuldade extrema. Crie a sua própria personagem e aventure-se pelas ruínas do Japão durante o Período Sengoku.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Nioh 2: Complete Edition inclui na sua totalidade o conteúdo de Nioh 2 assim como as 3 expansões de DLC, O Discípulo de Tengu, Escuridão na Capital e O Primeiro Samurai.</div><h2 class=\"css-1de1ys7\">◆ O discípulo de Tengu</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Viaje até ao final do Período Heian com O discípulo de Tengu, onde os clãs Genji e Heike competiam entre si de forma impiedosa. Participe da batalha que consiste num prefácio explicativo sobre como se desenrolou a história de Nioh 2.</div><h2 class=\"css-1de1ys7\">◆ Escuridão na capital</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Escuridão na capital situa-se em meados do Período Heian, uma altura em que os espíritos malignos e yokai estavam à solta por todo o Japão. Regresse até este período para se aventurar na capital e descobrir as ligações entre um passado ainda mais longínquo e o presente de onde você veio.</div><h2 class=\"css-1de1ys7\">◆ O primeiro samurai</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">O primeiro samurai leva você à passagem Suzuka durante o início do Período Heian. Na fantástica 3.ª expansão da saga Nioh 2, você voltará a enfrentar o seu arqui-inimigo Otakemaru.</div><h2 class=\"css-1de1ys7\">Recursos para PC:</h2><ul class=\"css-ty2e7e\" data-component=\"MarkdownList\"><li data-component=\"MarkdownListItem\"><span>Personalização completa de mouse e teclado</span></li><li data-component=\"MarkdownListItem\"><span>Compatibilidade com gamepad</span></li><li data-component=\"MarkdownListItem\"><span>Suporte para 4K Ultra-HD*</span></li><li data-component=\"MarkdownListItem\"><span>Compatibilidade com Ultra Widescreen*</span></li><li data-component=\"MarkdownListItem\"><span>Suporte para monitor HDR e 144Hz*</span></li><li data-component=\"MarkdownListItem\"><span>60/120 FPS*</span></li><li data-component=\"MarkdownListItem\"><span>Cross-play com jogadores do Steam<br>*Requer monitor/componentes de PC que ofereçam suporte a esses modos.</span></li></ul><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Bônus exclusivo<br>Você pode resgatar um \"Elmo de Raijin\" exclusivo ao selecionar \"Boons\" a partir de um santuário.<br><div data-testid=\"picture\" data-component=\"Picture\"><img alt=\"Image 2\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\"css-1wm2k1r\" data-image=\"https://cdn2.unrealengine.com/raijin-helmet-2500x2500-8d5deae24099.jpg\" data-testid=\"picture-image\" data-component=\"FallbackImage\"></div></div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Observe que alguns recursos online deste título podem ser alterados ou removidos no futuro.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Acesse o site oficial para mais detalhes: <span class=\"css-mysy54\" data-component=\"MarkdownLink\"><a href=\"https://redirect.epicgames.com/?redirectTo=https%3A%2F%2Fteamninja-studio.com%2Fnioh2%2Fen-us%2F\" class=\"css-ky9p96\" aria-label=\"\" role=\"link\" rel=\"noopener external\" target=\"_blank\" referrerpolicy=\"unsafe-url\" data-component=\"Link\">https://teamninja-studio.com/nioh2/en-us/</a><span class=\"css-8pyssk\" aria-hidden=\"true\" data-testid=\"icon\" data-component=\"Icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"svg css-w1atjl\" viewBox=\"0 0 8 7\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-822.000000, -269.000000)\"><g transform=\"translate(574.000000, 232.000000)\"><g id=\"Read-More\"><g transform=\"translate(249.000000, 37.000000)\"><path d=\"M0,6.98645433 L4.97064209,1.97119554\" stroke=\"currentColor\"></path><polygon fill=\"currentColor\" points=\"2.47241211 0.518434686 6.47241211 4.51843469 6.47241211 0.518434686\"></polygon></g></g></g></g></g></svg></span></span></div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Nioh: Complete Edition também está disponível na Epic Games Store:<br> <span class=\"css-mysy54\" data-component=\"MarkdownLink\"><a href=\"https://www.epicgames.com/store/pt-BR/p/nioh-the-complete-edition\" class=\"css-ky9p96\" aria-label=\"\" role=\"link\" rel=\"noopener noreferrer\" target=\"_blank\" data-component=\"Link\">https://www.epicgames.com/store/pt-BR/p/nioh-the-complete-edition</a><span class=\"css-8pyssk\" aria-hidden=\"true\" data-testid=\"icon\" data-component=\"Icon\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"svg css-w1atjl\" viewBox=\"0 0 8 7\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-822.000000, -269.000000)\"><g transform=\"translate(574.000000, 232.000000)\"><g id=\"Read-More\"><g transform=\"translate(249.000000, 37.000000)\"><path d=\"M0,6.98645433 L4.97064209,1.97119554\" stroke=\"currentColor\"></path><polygon fill=\"currentColor\" points=\"2.47241211 0.518434686 6.47241211 4.51843469 6.47241211 0.518434686\"></polygon></g></g></g></g></g></svg></span></span></div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">©KOEI TECMO GAMES CO., LTD All rights reserved.</div>",
-      images: [
-        "https://media-cdn.epicgames.com/cb06c531555f41b7b2842df082de30c8/cb06c531555f41b7b2842df082de30c8-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-nioh2thecompleteedition-koeitecmogamescoltd-g1a-01-1920x1080-145192a8de68.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-nioh2thecompleteedition-koeitecmogamescoltd-g1a-02-1920x1080-eecf251adc0f.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/Daffodil_1P_Awareness_INT_Epic_1200x1600_1200x1600-356dd4965bde4c5dbd1000f9c97ac4b4?h=854&resize=1&w=640"
     },
     {
       id: 1636839188,
@@ -440,7 +392,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-dishonoreddefinitiveedition-arkanestudios-g1a-02-1920x1080-19e4935dce66.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-dishonoreddefinitiveedition-arkanestudios-g1a-03-1920x1080-d6719cbc16a4.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DishonoredDefinitiveEdition_ArkaneStudios_S2_1200x1600-f5305c222f0397fd04ce309f6f0d486f?h=854&resize=1&w=640"
     },
     {
       id: 1636839288,
@@ -452,7 +404,7 @@ const games = [
       summary: "Vivencie o mundo dos Vikings como um museu vivo em Discovery Tour: Viking Age.",
       description: "<h2 class=\"css-1de1ys7\">Conheça a fundo a Era Viking com Discovery Tour:</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">• Aventure-se pela Era Viking enquanto explora livremente a Noruega, Inglaterra e os reinos mitológicos de Jotunheim e Asgard num mapa sem conflitos ou restrições de jogabilidade.<br>• Reviva a história por meio de narrativas com 8 missões principais e descubra a Era Viking dos séculos IX ao XI, no norte da Europa. Interaja com personagens carismáticos da história ou fictícios, incluindo o Rei Alfredo, construtores de navios, monges e outros mais!<br>• Participe da história através de uma nova experiência voltada para o jogador, onde você se torna o protagonista de missões narrativas.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Discovery Tour faz parte de Assassin's Creed Valhalla como atualização gratuita.</div>",
       images: [],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_ACV_DISCOVERY_TOUR_EPIC_Store%20Portrait_1200x1600%20_1200x1600-32be5f443045bbc8d4513036d04026f2?h=854&resize=1&w=640"
     },
     {
       id: 1636839240,
@@ -468,7 +420,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-insoundmind-wecreatestuff-g1a-01-1920x1080-25cec16ae703.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-insoundmind-wecreatestuff-g1a-02-1920x1080-8c14b0ce6262.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49?h=854&resize=1&w=640"
     },
     {
       id: 1636839171,
@@ -484,7 +436,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-soniccolorsultimate-blindsquirrelentertainment-g1a-01-1920x1080-8d754fc46b2f.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-soniccolorsultimate-blindsquirrelentertainment-g1a-02-1920x1080-be86485949a3.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_S2_1200x1600-cb900631d297eb52062bd1fc18904083?h=854&resize=1&w=640"
     },
     {
       id: 1636839260,
@@ -500,96 +452,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-hotwheelsunleashed-milestonesrl-g1c-02-1920x1080-23ab491ab41f.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-hotwheelsunleashed-milestonesrl-g1a-03-1920x1080-755bbdb376ed.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839274,
-      title: "Override 2: Super Mech League",
-      price: "R$ 99,90",
-      developer: "Modus Studios Brazil",
-      editor: "Modus Games",
-      releaseDate: "22 de dez. de 2020",
-      summary: "Lute em Mech Leagues e alcance novas alturas com o objetivo de ser o melhor piloto. Escolha seu estilo de jogo entre os tipos de partida, incluindo 1x1, 2x2, todos contra todos, Xenoswarm, Rei da Colina e muito mais, desbloqueando uma série de itens cosméticos e acessórios para o mecha de sua escolha.",
-      description: "<h2 class=\"css-1de1ys7\">Override 2: Super Mech League</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Lute em Mech Leagues e alcance novas alturas com o objetivo de ser o melhor piloto. Escolha seu estilo de jogo entre os tipos de partida, incluindo 1x1, 2x2, todos contra todos, Xenoswarm, Rei da Colina e muito mais, desbloqueando uma série de itens cosméticos e acessórios para o mecha de sua escolha.</div>",
-      images: [],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839203,
-      title: "Sherlock Holmes Chapter One",
-      price: "R$ 149",
-      developer: "Frogwares",
-      editor: "Frogwares",
-      releaseDate: "",
-      summary: "Neste suspense investigativo orientado por histórias, um jovem Sherlock Holmes tenta provar a que veio enquanto circula por uma perigosa e exótica ilha para investigar o mistério da morte de sua mãe.",
-      description: "<h2 class=\"css-1de1ys7\">Sherlock Holmes Chapter One</h2><h2 class=\"css-1de1ys7\">A lenda começa com você!</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Como Sherlock, seu legado é formado pelas decisões que você toma neste mundo aberto. Engano, violência e dedução são apenas alguns recursos do seu arsenal — seu misterioso companheiro e fiel escudeiro, Jon, é outro.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Quer você escolha a força bruta para resolver problemas ou fique um passo à frente de seus inimigos usando sua inteligência para localizar vulnerabilidades, você decidirá o que cada situação exige aprimorando suas habilidades investigativas. Está na hora de confrontar o seu passado para poder se transformar na lenda que você está destinado a ser.</div><h2 class=\"css-1de1ys7\">O homem de antes</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Como um jovem e arrogante Sherlock à beira da vida adulta, você conquistará sua reputação de uma maneira que nenhum outro jogo ou história jamais explorou. Nunca antes vimos a jovem arrogância e ingenuidade do homem por trás da lenda — mas agora você vive isso.</div><h2 class=\"css-1de1ys7\">Investigação global</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Nunca se sabe de onde sairá sua próxima pista. Explore e tire proveito de toda a cidade em sua busca pela verdade, usando pistas, rumores, disfarces, etiquetas e evidências para construir um sólido caso no seu palácio da mente.</div><h2 class=\"css-1de1ys7\">E abaixe-se!</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">As armas podem até ajudar numa emergência, mas a verdade precisa ser dita quanto ao estilo: isso você tem de sobra. Identifique as vulnerabilidades do inimigo com suas brilhantes habilidades de observação ou tire proveito do ambiente para deter alguém sem sujar as próprias mãos.</div><h2 class=\"css-1de1ys7\">Um Jon diferente</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Antes de John Watson, havia um Jon diferente, seu melhor e único amigo. Mas quem é ele realmente?</div><h2 class=\"css-1de1ys7\">Uma Maré Enturvecida</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Situada no século XIX, essa vibrante ilha em mundo aberto no Mediterrâneo promete nada mais que um paraíso. A corrupção política e o crime correm desenfreados enquanto os habitantes da ilha se atêm à tradição e evitam os forasteiros, tornando o seu trabalho ainda mais difícil.</div><h2 class=\"css-1de1ys7\">Verdades e mentiras</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Toda história tem dois lados e os orgulhosos ilhéus têm suas próprias concepções de verdade e justiça. Cabe a você decidir quando revelar uma verdade fará mais mal do que bem — e como isso moldará o homem que você vai se tornar.</div>",
-      images: [
-        "https://media-cdn.epicgames.com/3ff944e3d1c04fffbf43f730306e8068/3ff944e3d1c04fffbf43f730306e8068-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://media-cdn.epicgames.com/df119b1739f844ac9a6e97b7d710e681/df119b1739f844ac9a6e97b7d710e681-00001-thumb.png?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839308,
-      title: "Guardiões da Galáxia da Marvel",
-      price: "R$ 299,90",
-      developer: "Eidos-Montréal",
-      editor: "Square Enix",
-      releaseDate: "26 de out. de 2021",
-      summary: "Você é o Senhor das Estrelas. O destino da galáxia e dos Guardiões está em suas mãos. É hora de mostrar ao universo do que você é capaz. Você consegue. Acho.",
-      description: "<h2 class=\"css-1de1ys7\">Pacote de Trajes Retrô dos Guardiões</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Acione as botas a jato do Senhor das Estrelas e embarque numa nova e empolgante viagem pelo cosmos neste jogo de ação e aventura em terceira pessoa dos Guardiões da Galáxia da Marvel. Com a ajuda dos imprevisíveis Guardiões, encare situações explosivas repletas de personagens originais e emblemáticos da Marvel envolvidos em uma luta pelo destino da galáxia. Você consegue. Acho.</div><h2 class=\"css-1de1ys7\">LIDERE OS GUARDIÕES DA GALÁXIA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Você joga no papel do Senhor das Estrelas, e tudo é permitido com seu estilo de combate ousado, de pistolas elementais a botas a jato e ataques coletivos. Com os Guardiões lutando ao seu lado, tome decisões e derrote os oponentes com ataques especiais. Além disso, no decorrer da jornada, as consequências de suas ações podem ser cômicas ou totalmente inesperadas.</div><h2 class=\"css-1de1ys7\">UMA NOVA HISTÓRIA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Seu recém-formado grupo de desajustados lendários está determinado a salvar o universo nesta nova e fiel versão dos Guardiões da Galáxia. Você desencadeará uma série de eventos catastróficos, e com isso embarcará em uma viagem por mundos extraordinários habitados por personagens emblemáticos e originais da Marvel. Curta a trilha sonora dos anos 80 e se prepare para detonar.</div><h2 class=\"css-1de1ys7\">DE DESAJUSTADOS A SUPER-HERÓIS</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Você é a única coisa que mantém os imprevisíveis Guardiões unidos, então é bom pegar o jeito desse negócio de liderança o quanto antes. Na companhia dessa excêntrica família improvisada, a história promete lágrimas e risadas enquanto vocês percorrem o cosmo juntos. Seja lá o que o futuro reserva, você sabe que vai ser um arraso.</div><h2 class=\"css-1de1ys7\">BÔNUS DE DOWNLOAD DIGITAL</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Adquirir a versão digital do jogo desbloqueará o traje Senhor da Sociedade para o Senhor das Estrelas.</div>",
-      images: [
-        "https://cdn2.unrealengine.com/egs-marvelsguardiansofthegalaxy-eidosmontral-g1c-1920x1080-e10effa55a41.jpg?h=720&resize=1&w=1280",
-        "https://media-cdn.epicgames.com/d6bcf5fc8aa64aba8c5b0f62ea90d1a0/d6bcf5fc8aa64aba8c5b0f62ea90d1a0-00001-thumb.png?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839143,
-      title: "Operation: Tango",
-      price: "R$ 75,85",
-      developer: "Clever Plays Studio",
-      editor: "Clever Plays Studio",
-      releaseDate: "1 de jun. de 2021",
-      summary: "São necessárias duas pessoas para salvar o mundo neste thriller de espionagem assimétrico. Junte-se a um amigo como um agente especial ou hacker de elite e trabalhe em conjunto para derrubar uma grande ameaça global tecnológica.",
-      description: "<h2 class=\"css-1de1ys7\">Operation: Tango</h2><h2 class=\"css-1de1ys7\">CITAÇÕES DE AVALIAÇÕES</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">\"Operation: Tango é uma abordagem inteligente e atrativa de uma experiência de espionagem cooperativa com estilo envolvente e música excelente.\"</div><ul class=\"css-ty2e7e\" data-component=\"MarkdownList\"><li data-component=\"MarkdownListItem\"><span>IGN</span></li></ul><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">\"Operation: Tango é um título fantástico que realmente envolve a comunicação de forma diferente de qualquer outro jogo que eu tenha jogado.\"</div><ul class=\"css-ty2e7e\" data-component=\"MarkdownList\"><li data-component=\"MarkdownListItem\"><span>The Escapist</span></li></ul><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">\"Operation: Tango é ágil, inteligente, bem projetado e incrivelmente envolvente.\"</div><ul class=\"css-ty2e7e\" data-component=\"MarkdownList\"><li data-component=\"MarkdownListItem\"><span>Screen Rant</span></li></ul><h2 class=\"css-1de1ys7\">OBSERVAÇÕES</h2><ul class=\"css-ty2e7e\" data-component=\"MarkdownList\"><li data-component=\"MarkdownListItem\"><span>Este é um jogo exclusivamente cooperativo online e requer um microfone.</span></li><li data-component=\"MarkdownListItem\"><span>Graças ao Friend Pass, qualquer um de seus amigos pode jogar com você grátis.</span></li><li data-component=\"MarkdownListItem\"><span>Jogo multiplataforma habilitado.</span></li></ul><h2 class=\"css-1de1ys7\">CARACTERÍSTICAS DO JOGO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">SOLUÇÃO COOPERATIVA DE ENIGMAS - Combine conjuntos de habilidades de diferentes pontos de vista para superar desafios focados na comunicação, não na dificuldade. Essas missões não podem ser concluídas por si só.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">ESPIONAGEM EMOCIONANTE - Investigue, hackeie e infiltre-se enquanto executa missões em todo o mundo. Viva a sua fantasia definitiva de espionagem no estilo \"Hollywood\"!</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">FERRAMENTAS DE ALTA TECNOLOGIA - Vivencie o esplendor visual e os avanços tecnológicos de um mundo hiperconectado construído em torno da realidade aumentada.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">IRONIAS AMIGÁVEIS - A comunicação constante contribui para momentos emocionantes e hilários. É tudo uma questão de compartilhar sua voz.</div><h2 class=\"css-1de1ys7\">OPÇÕES MULTIJOGADOR</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">FRIEND PASS - Se você possui o Operation: Tango, qualquer um de seus amigos pode jogar com você grátis. Tudo o que eles precisam fazer é baixar o Friend Pass do Operation: Tango na plataforma de preferência deles. São necessárias duas pessoas para salvar o mundo, mas apenas uma precisará pagar por isso.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">JOGO MULTIPLATAFORMA - Operation: Tango pode ser jogado com uma pessoa que não esteja jogando na mesma plataforma que você. E tudo funciona perfeitamente.</div>",
-      images: [
-        "https://media-cdn.epicgames.com/37513afe955041b1b3c848cbabd7d0af/37513afe955041b1b3c848cbabd7d0af-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-operationtango-cleverplaysstudio-g1a-02-1920x1080-1e2442bc0e73.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-operationtango-cleverplaysstudio-g1a-03-1920x1080-c70c8c3235db.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839329,
-      title: "RiMS Racing",
-      price: "R$ 109,99",
-      developer: "Raceward Studio",
-      editor: "Nacon",
-      releaseDate: "19 de ago. de 2021",
-      summary: "A primeira simulação de motociclismo que combina um desafio de pilotagem realista ao gerenciamento de engenharia e mecânica! Pilote as motos mais poderosas do mundo e aprimore ainda mais o desempenho delas com trocas de peças e análise de dados em tempo real.",
-      description: "<h2 class=\"css-1de1ys7\">RiMS Racing</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Corridas não se ganham só na pista, é preciso ir além da pilotagem e entender o comportamento da moto como um verdadeiro engenheiro. Tração, ângulo, frenagem, torque, trajetória, velocidade… todos esses fatores precisam ser levados em conta antes de ir para a oficina e alterar componentes para encontrar a configuração ideal. </div><h2 class=\"css-1de1ys7\">A GARAGEM DOS SONHOS</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Sua aventura começa com a escolha da moto dos sonhos. No RiMS Racing, você pode pilotar oito das motocicletas europeias e japonesas mais potentes do mundo: Ducati Panigale V4 R, MV Agusta F4 RC, Aprilia RSV4, BMW M 1000 RR, Suzuki GSX-R1000R, Honda CBR1000RR, Kawasaki Ninja ZX-10RR e Yamaha YZF-R1. Recriadas com um nível de detalhamento incomparável, graças à estreita colaboração com cada fabricante, essas máquinas também fornecem uma experiência de condução muito precisa e realista. Elas são como diamantes brutos, que só precisam de polimento para brilhar com toda a intensidade. </div><h2 class=\"css-1de1ys7\">OTIMIZE SUA MOTO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Com um sistema de gerenciamento de mecânica inédito em simulações motociclísticas, você pode desmontar todas as peças da sua moto, fazer a manutenção após cada corrida e ainda customizá-las para aumentar o desempenho. Você vai conhecer a fundo todos os detalhes da sua moto, até o último parafuso. Veja as opções de um catálogo com mais de 500 peças de reposição oficiais dos maiores nomes da indústria, além de mais de 200 itens de equipamentos oficiais para personalizar o piloto!</div><h2 class=\"css-1de1ys7\">ANALISE SEU DESEMPENHO</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">O RiMS Racing coloca você no centro da ação com a Verificação do Status da Motocicleta (VSM), que analisa o comportamento da moto em tempo real e ajuda a entender como otimizar o desempenho da sua máquina. Temperatura do disco de freio, pressão e desgaste dos pneus, comportamento da suspensão, configurações eletrônicas… Faça como um piloto de verdade e adapte a configuração da sua moto ao seu estilo de pilotagem!</div><h2 class=\"css-1de1ys7\">FÍSICA PRECISA E REALISTA</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">O nível de precisão e detalhamento da VSM e do gerenciamento mecânico se alia a uma física realista da motocicleta que vai emocionar até os pilotos mais exigentes. Por outro lado, as várias tecnologias de assistência de condução permitem que jogadores menos experientes aprendam as técnicas que os levarão ao topo.</div><h2 class=\"css-1de1ys7\">OS CIRCUITOS MAIS ICÔNICOS</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Silverstone, Laguna Seca, Suzuka, Nürburgring, Paul Ricard: viaje pelo mundo e desfrute de corridas emocionantes em dez circuitos oficiais, recriados com alta fidelidade. Para quem prefere estradas, o jogo recria cinco percursos em paisagens deslumbrantes de Estados Unidos, Noruega, Austrália, Espanha e Itália, oferecendo uma experiência de corrida diferente sobre duas rodas!</div><h2 class=\"css-1de1ys7\">GERENCIE SUA CARREIRA E SUA EQUIPE</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Assuma o controle da equipe no modo Carreira do RiMS Racing. Você pode criar o piloto, gerenciar o calendário de corridas, escolher as áreas de P&amp;D que merecem mais investimentos e aprimorar as habilidades da equipe. Se tomar as decisões certas e melhorar seu desempenho nas corridas, logo você poderá aproveitar oportunidades oferecidas por outros fabricantes!</div>",
-      images: [
-        "https://media-cdn.epicgames.com/9dd1f7e627dc4b1baa51847ea43a4589/9dd1f7e627dc4b1baa51847ea43a4589-00001-thumb.png?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-rimsracing-racewardstudio-g1a-02-1920x1080-c3029f098bfb.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
-    },
-    {
-      id: 1636839297,
-      title: "Roguebook",
-      price: "R$ 109,99",
-      developer: "Abrakam Entertainment SA",
-      editor: "Nacon",
-      releaseDate: "17 de jun. de 2021",
-      summary: "Enfrente o desafio de um deckbuilder estilo roguelike com mecanismos exclusivos, dos desenvolvedores de Faeria, e Richard Garfield, criador de Magic: The Gathering™. Crie uma dupla de heróis, lance poderosos combos e derrote as lendas do Roguebook!",
-      description: "<h2 class=\"css-1de1ys7\">Roguebook</h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Os antigos falam de um Livro escrito desde tempos imemoriais, contendo todas as lendas do mundo. Após muitas aventuras fabulosas, recontadas em <em>Faeria – Crônicas de Gagana</em>, essa relíquia se perdeu dentro de um poço de Faeria. Através do contato com essa fonte de magia, o Livro adquiriu uma peculiar vontade própria e tornou-se o Roguebook!</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\">Você está preso dentro do Livro do Conhecimento de <em>Faeria</em>, e cada página representa um novo desafio. Leve sua dupla de heróis à vitória neste deckbuilder estilo roguelike, desenvolvido em parceria com Richard Garfield, criador de <em>Magic: The Gathering</em>™. Escolha as melhores sinergias entre cards, relíquias e habilidades para enfrentar o Roguebook.</div><h2 class=\"css-1de1ys7\"><strong>HERÓIS LENDÁRIOS</strong></h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>6 pares de heróis</strong> – Escolha 2 heróis para começar um jogo. Cada herói possui uma coleção de mais de 50 cards, uma relíquia pessoal e uma árvore de habilidades exclusivas.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Maximize sinergias</strong> – O herói no front protege o herói na retaguarda. Troque seus heróis de lugar e combine seus pontos fortes para lançar poderosos combos.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Batalhas estratégicas</strong> – Pense bem e planeje suas ações para derrotar mais de 40 chefões e inimigos.</div><h2 class=\"css-1de1ys7\"><strong>MONTE SEU DECK AO LONGO DO JOGO</strong></h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Montagem de deck dinâmica</strong> – Mais de 200 cards para montar estrategicamente à medida que você progride. Você nunca jogará com o mesmo deck duas vezes.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Relíquias com poderes únicos</strong> – Aprimore seus cards com 30 gemas especiais. Colete 80 relíquias com efeitos extraordinários.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Quanto mais cards, mais poder!</strong> – Cada herói tem uma árvore de habilidades exclusivas para você desbloquear. Colete cards e escolha as melhores habilidades!</div><h2 class=\"css-1de1ys7\"><strong>EXPLORE UM MUNDO QUE MUDA A CADA NOVA PINCELADA</strong></h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>O Livro muda cada vez que você abre</strong> – O mapa, seus mistérios e perigos são gerados de forma procedural para oferecer um desafio diferente a cada jogada.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Pinte o mundo</strong> –As páginas do Roguebook são feitas de espaços hexagonais. Use tintas mágicas para revelar diferentes padrões e explorar cada página por completo.</div><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Os mais variados encontros</strong> – Mercadores, viajantes, ruínas, missões etc. Muitas chances de obter cards e relíquias... ou cair em uma armadilha!</div><h2 class=\"css-1de1ys7\"><strong>CADA JOGADA CONTA NA MISSÃO PARA DERROTAR O ROGUEBOOK</strong></h2><div class=\"css-1chn1kq\" data-component=\"MarkdownParagraph\"><strong>Horas e horas de diversão</strong> – 20 horas, em média, para concluir o jogo, e centenas de horas para desbloquear tudo.<br><strong>Jogue no seu próprio ritmo</strong> – Colete páginas e use-as para comprar melhorias. Suba de nível com seus heróis para desbloquear novos cards.<br><strong>20 níveis de dificuldade</strong> – Derrote o chefão final para desbloquear o Epílogo. Cada nível dá acesso a novas relíquias, gemas e encontros, mas também gera inimigos mais difíceis.</div>",
-      images: [
-        "https://cdn2.unrealengine.com/egs-roguebook-abrakam-g1c-01-1920x1080-ad63fe4bc783.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-roguebook-abrakam-g1a-02-1920x1080-d4595a8437a0.jpg?h=720&resize=1&w=1280",
-        "https://cdn2.unrealengine.com/egs-roguebook-abrakam-g1a-03-1920x1080-af8f309835cf.jpg?h=720&resize=1&w=1280"
-      ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S2_1200x1600-30ec276e4019296d3efd50d5b6ffe1bc?h=854&resize=1&w=640"
     },
     {
       id: 1636839300,
@@ -605,7 +468,7 @@ const games = [
         "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-02-1920x1080-f7c6fef5c876.jpg?h=720&resize=1&w=1280",
         "https://cdn2.unrealengine.com/egs-godofwar-santamonicastudio-g1a-03-1920x1080-65b80475ae32.jpg?h=720&resize=1&w=1280"
       ],
-      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d?h=854&resize=1&w=640"
+      coverImage: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7?h=854&resize=1&w=640"
     }
 ]
 

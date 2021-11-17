@@ -6,7 +6,7 @@ import products from "../../products";
 
 export default function Root(props) {
   return (
-    <Grid templateColumns="repeat(4, 1fr)" gap={2}>
+    <Grid templateColumns="repeat(4, 1fr)" gap={4}>
       {products.map(p => (
         <GridItem key={p.id}>
           <Product product={p}/>

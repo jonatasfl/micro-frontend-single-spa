@@ -57,7 +57,7 @@ function Rating({ rating, numReviews }: RatingProps) {
 
 function ProductAddToCart({ product: { id, title, price, coverImage } }) {
   return (
-    <Flex p={50} w="full" alignItems="center" justifyContent="center">
+    <Flex w="full" alignItems="center" justifyContent="center">
       <Box
         bg={useColorModeValue('white', 'gray.800')}
         maxW="sm"
@@ -95,7 +95,7 @@ function ProductAddToCart({ product: { id, title, price, coverImage } }) {
 
           <Flex justifyContent="space-between" alignContent="center">
             <Rating rating={data.rating} numReviews={data.numReviews} />
-            <Box fontSize="2xl" color={useColorModeValue('gray.800', 'white')}>
+            <Box fontSize="2xl" color={useColorModeValue('green.500', 'white')}>
               {price}
             </Box>
           </Flex>
